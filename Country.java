@@ -91,7 +91,7 @@ public class Country {
      */
 
     public String toString() {
-       
+       return name + " (" + region + ") - 2020 Life Expectancy: " + lifeExpectancy2020 + " years";
     }
 
 
